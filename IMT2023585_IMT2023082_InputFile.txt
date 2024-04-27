@@ -1,0 +1,36 @@
+Enter 
+1 for the Find Rank program, 
+2 for the LCM GCD program, 
+3 for the Binomial Expansion program. 
+
+
+Enter your choice: 1 (For the Find Rank Program)
+
+Enter the number of integers in your array: 5
+Enter the starting address where you want to store the input array: 268500992
+Enter the starting address where you want to store the output array: 268501024
+Enter the integers in your array:
+3
+4
+2
+5
+Enter the address where you want to store the rank: 268501088
+Enter the number whose rank you want to find: 3
+
+
+Enter your choice: 2 (for the LCM GCD Program)
+
+Enter the address where you want to store the first number: 268500992
+Enter the first number: 3
+Enter the address where you want to store the second number: 268501024
+Enter the second number: 45
+Enter the address where you want to store the GCD: 268501028
+Enter the address where you want to store the LCM: 268501088
+
+
+Enter your choice: 3 (for the Binomial Expansion Program)
+
+Enter the address where you want to store n: 268500992
+Enter n: 10
+Enter the starting address where you want to store the coefficients: 268501088
+
